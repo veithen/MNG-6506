@@ -1,0 +1,2 @@
+@testmojo.TestAnnotation
+package testmojo;
